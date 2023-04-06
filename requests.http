@@ -1,0 +1,6 @@
+### test server 
+GET http://localhost:3000/
+
+### GET all pets
+GET http://localhost:3000/pets
+
